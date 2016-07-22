@@ -1,1 +1,17 @@
-Hello World
+<!DOCTYPE html>
+<! Summer 2016 >
+<html>
+<head>
+  <link rel="stylesheet" href="styleSheet.css"/>
+  <script type="text/javascript" src = "javaScript.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min.js"></script>
+  <script src="jquery.scrollmagic.min.js"></script>
+</head>
+<body>
+
+    <div>
+      meow
+    </div>
+</body>
+</html>
