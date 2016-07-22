@@ -1,5 +1,6 @@
+
 $(document).ready(function() {
-	var scrollMagicController = new ScrollMagic();
+	/**var scrollMagicController = new ScrollMagic();
 
 	var tween = TweenMax.to("h1", 0.5, {
 	backgroundColor: 'rgb(255, 39, 46)',
@@ -8,8 +9,12 @@ $(document).ready(function() {
 	    });
 	var scene = new ScrollScene({
 		triggerElement: "h1",
-		offset: 150 /* offset the trigger 150px below #scene's top */
+		offset: 150
 	    })
 	    .setTween(tween)
 	    .addTo(scrollMagicController);
+	*/
+	$('div').click(function() {
+		$('div').fadeOut('slow');
+	    });
     });
