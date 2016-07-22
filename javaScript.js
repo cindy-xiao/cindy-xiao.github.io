@@ -13,7 +13,7 @@ $(document).ready(function() {
 	    .setTween(tween)
 	    .addTo(scrollMagicController);
 	*/
-	('h1').click(function() {
+	('div').click(function() {
 		$('div').fadeOut('slow');
 	    });
     });
