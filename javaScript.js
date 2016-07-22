@@ -10,7 +10,7 @@ $(document).ready(function() {
 	var scene = new ScrollScene({
 		triggerElement: "div",
 		offset: 150
-	    })
-	    .setTween(tween)
-	    .addTo(scrollMagicController);
+	    });
+	scene.setTween(tween);
+	scene.addTo(scrollMagicController);
     });
