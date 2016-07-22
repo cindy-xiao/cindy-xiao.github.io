@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	var scrollMagicController = new ScrollMagic();
+	/**var scrollMagicController = new ScrollMagic();
 
 	var tween = TweenMax.to("h1", 0.5, {
 	backgroundColor: 'rgb(255, 39, 46)',
@@ -12,4 +12,8 @@ $(document).ready(function() {
 	    })
 	    .setTween(tween)
 	    .addTo(scrollMagicController);
+	*/
+	('h1').click(function() {
+		$('div').fadeOut('slow');
+	    });
     });
