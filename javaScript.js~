@@ -14,7 +14,7 @@ $(document).ready(function() {
 	    .setTween(tween)
 	    .addTo(scrollMagicController);
 	*/
-	$('div').click(function() {
-		$('div').fadeOut('slow');
+	$("div").click(function() {
+		$("div").fadeOut("slow");
 	    });
     });
