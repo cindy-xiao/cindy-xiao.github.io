@@ -2,15 +2,11 @@
 $(document).ready(function() {
 	$(function() {
 		var controller = new ScrollMagic.Controller();
-
-		var blockTween = new TweenMax.to('#block', 1.5, {
-			backgroundColor: 'red'
-		    });
-
 		var containerScene = new ScrollMagic.Scene({
-			triggerElement: '#container'
+			triggerElement: '#container',
+			duration: 500
 		    })
-		    .setTween(blockTween)
+		    .setPin('#block')
 		    .addIndicators()
 		    .addTo(controller);
 	    });

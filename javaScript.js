@@ -1,13 +1,6 @@
 
 $(document).ready(function() {
-	$(function() {
-		var controller = new ScrollMagic.Controller();
-		var containerScene = new ScrollMagic.Scene({
-			triggerElement: '#container',
-			duration: 500
-		    })
-		    .setPin('#block')
-		    .addIndicators()
-		    .addTo(controller);
+	$("#container").hover(function(){
+		$("#container").fadeOut("slow");
 	    });
     });
