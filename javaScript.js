@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-	$("#container").hover(function(){
+	$("#block").click(function(){
 		$("#container").fadeOut("slow");
 	    });
     });
