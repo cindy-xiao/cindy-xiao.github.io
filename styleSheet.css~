@@ -13,3 +13,14 @@ div {
     background-color: #AAAA0A;
     border-radius: 5px;
 }
+#container {
+    margin: 55vh 0;
+    padding: 50px;
+    outline: 1px dashed orange;
+}
+
+#block {
+    padding: 10px;
+    border: 1px solid black;
+    font-family: Helvetica;
+}
