@@ -2,7 +2,7 @@
 $(document).ready(function() {
 	var scrollMagicController = new ScrollMagic.Controller();
 
-	var tween = TweenMax.to("div", 0.5, {
+	var tween = TweenMax.to("div", 2.5, {
 	backgroundColor: 'red',
 	color: "white"
 	    });
