@@ -4,15 +4,6 @@ html, body{
       padding: 0;
 }
 
-h1{
-color:#ffd23g;
-}  
-div {
-    height: 100px;
-    width: 100px;
-    background-color: #AAAA0A;
-    border-radius: 5px;
-}
 #container {
     margin: 55vh 0;
     padding: 50px;
