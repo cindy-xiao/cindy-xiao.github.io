@@ -1,5 +1,5 @@
 html, body {
-	height: 200%;
+	height: 100%;
 	margin: 0;
     padding: 0;
     width: 100%;
@@ -11,6 +11,7 @@ html, body {
 	padding: 0;
 	width: 100%;
 	background-image: url("Hello.jpg");
+	background-repeat: no-repeat;
 	zoom: 10%;
 }
 
