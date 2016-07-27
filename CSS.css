@@ -26,8 +26,7 @@ html, body {
 	font-family: Verdana;
 	color: white;
 }
-#DS{
-	
+.back{
 	float: left;
 	padding: 0;
 	margin: 0.5vh;
@@ -35,72 +34,46 @@ html, body {
 	width: 20%;
 	height: 20%;
 	background-color: #778899;
-	/*background-image: url("DS.jpg");
-	background-color: blue;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;*/
 	padding-top: 10vh;
 	text-align: center;
 	font-size: 2vh;
 	font-family: Verdana;
 	color: white;
 }
+#DS{
+	
+	
+	/*background-image: url("DS.jpg");
+	background-color: blue;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;*/
+
+}
 #Research{
 	
-	height: 20%;
-	margin: 0.5vh;
-	padding: 0;
-	border: 0;
-	width: 20%;
-	float: left;
-	background-color: #778899;
+	
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;*/
-	padding-top: 10vh;
-	text-align: center;
-	font-size: 2vh;
-	font-family: Verdana;
-	color: black;
+	
 }
 #Violin{
 	
-	height: 20%;
-	margin: 0.5vh;
-	padding: 0;
-	border: 0;
-	width: 20%;
-	float: left;
-	background-color: #778899;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;*/
-	padding-top: 10vh;
-	text-align: center;
-	font-size: 2vh;
-	font-family: Verdana;
-	color: black;
+	
 }
 #EWB{
 	
-	height: 20%;
-	margin: 0.5vh;
-	padding: 0;
-	border: 0;
-	width: 20%;
-	float: left;
-	background-color: #778899;
+	
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;*/
-	padding-top: 10vh;
-	text-align: center;
-	font-size: 2vh;
-	font-family: Verdana;
-	color: black;
+	
 }
 
 /*<a href = "test.html">test1</a>*/
