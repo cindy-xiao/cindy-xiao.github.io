@@ -15,7 +15,7 @@ html, body {
 }
 #hello{
 	position: absolute;
-	top: 50vh;
+	top: -50vh;
 	display: block;
 	height: 60%;
 	margin: 0;
