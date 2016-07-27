@@ -55,7 +55,7 @@ html, body {
 }
 #Research1{
 	position: absolute;
-	right: 120vmin;
+	right: 135vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -77,7 +77,7 @@ html, body {
 }
 #Violin{
 	position: absolute;
-	right: 40vmin;
+	right: 90vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -98,7 +98,7 @@ html, body {
 }
 #Research2{
 	position: absolute;
-	right: 80vmin;
+	right: 45vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
