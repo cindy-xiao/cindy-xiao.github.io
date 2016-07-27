@@ -35,14 +35,14 @@ html, body {
 	width: 17%;
 	height: 40%;
 	background-color: #778899;
-	/*padding-top: 5vh;*/
+	padding: 5vh;
 	text-align: center;
 	font-size: 2vh;
 	font-family: Verdana;
 	color: white;
 }
 #DS{
-	
+	background-color: black;
 	
 	/*background-image: url("DS.jpg");
 	background-color: blue;
@@ -51,7 +51,7 @@ html, body {
 
 }
 #Research{
-	
+	background-color: yellow;
 	
 	/*background-image: url("Research.jpg");
 	background-color: blue;
@@ -60,7 +60,7 @@ html, body {
 	
 }
 #Violin{
-	
+	background-color: green;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
@@ -69,13 +69,13 @@ html, body {
 }
 #EWB{
 	
-	
+	background-color: purple;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;*/
 	
 }
-
+	
 /*<a href = "test.html">test1</a>*/
 
