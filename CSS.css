@@ -10,7 +10,7 @@ html, body {
 #hello{
 	
 	/*display: block;*/
-	
+	position: relative;
 	height: 60%;
 	border: 0;
 	width: 100%;
