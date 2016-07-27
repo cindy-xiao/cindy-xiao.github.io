@@ -5,7 +5,11 @@ html, body {
     width: 100%;
     font-size: 100%;
 }
+#bigcontainer{
+	position: relative;
+}
 #container{
+	position: absolute;
 	float: clear;
 	width: 100%;
 	background-color: gray;
@@ -14,7 +18,7 @@ html, body {
 	position: relative;
 }
 #hello{
-
+	position: absolute;	
 	display: block;
 	height: 60%;
 	margin: 0;
