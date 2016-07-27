@@ -6,6 +6,7 @@ html, body {
     font-size: 100%;
 }
 #container{
+	float: clear;
 	width: 100%;
 	background-color: gray;
 }
@@ -29,7 +30,7 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	margin: 1vh;
+	margin: 0.5vh;
 	border: 0;
 	width: 20%;
 	height: 20%;
@@ -47,7 +48,7 @@ html, body {
 #Research{
 	
 	height: 20%;
-	margin: 1vh;
+	margin: 0.5vh;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -66,7 +67,7 @@ html, body {
 #Violin{
 	
 	height: 20%;
-	margin: 1vh;
+	margin: 0.5vh;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -85,7 +86,7 @@ html, body {
 #EWB{
 	
 	height: 20%;
-	margin: 1vh;
+	margin: 0.5vh;
 	padding: 0;
 	border: 0;
 	width: 20%;
