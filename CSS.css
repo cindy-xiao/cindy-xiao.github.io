@@ -13,7 +13,7 @@ html, body {
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	padding: 30%;
+	padding-top: 10%;
 	text-align: center;
 	font-size: 25 em;
 	font-family: Verdana;
