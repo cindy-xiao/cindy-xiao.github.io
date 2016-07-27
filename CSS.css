@@ -14,6 +14,7 @@ html, body {
 	position: relative;
 }
 #hello{
+	position: relative;
 	display: block;
 	height: 60%;
 	margin: 0;
