@@ -7,11 +7,16 @@ html, body {
 }
 a{
 	text-decoration: none;
+	padding-top: 10vmin;
+	text-align: center;
+	font-size: 5vmin;
+	font-family: Verdana;
+	color: white;
 }
 
 #hello{
 	
-	/*display: block;*/
+	
 	height: 60%;
 	border: 0;
 	width: 100%;
