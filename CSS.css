@@ -20,7 +20,7 @@ html, body {
 	background-size: 100%;
 	padding-top: 10%;
 	text-align: center;
-	font-size: 5em;
+	font-size: 5vh;
 	font-family: Verdana;
 	color: white;
 }
@@ -28,7 +28,7 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	margin: 1em;
+	margin: 1vh;
 	border: 0;
 	width: 20%;
 	height: 20%;
@@ -39,14 +39,14 @@ html, body {
 	background-size: 100% 100%;*/
 	padding-top: 10%;
 	text-align: center;
-	font-size: 2em;
+	font-size: 2vh;
 	font-family: Verdana;
 	color: white;
 }
 #Research{
 	
 	height: 20%;
-	margin: 1em;
+	margin: 1vh;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -58,14 +58,14 @@ html, body {
 	background-size: 100% 100%;*/
 	padding-top: 10%;
 	text-align: center;
-	font-size: 2em;
+	font-size: 2vh;
 	font-family: Verdana;
 	color: black;
 }
 #Violin{
 	
 	height: 20%;
-	margin: 1em;
+	margin: 1vh;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -77,14 +77,14 @@ html, body {
 	background-size: 100% 100%;*/
 	padding-top: 10%;
 	text-align: center;
-	font-size: 2em;
+	font-size: 2vh;
 	font-family: Verdana;
 	color: black;
 }
 #EWB{
 	
 	height: 20%;
-	margin: 1em;
+	margin: 1vh;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -96,7 +96,7 @@ html, body {
 	background-size: 100% 100%;*/
 	padding-top: 10%;
 	text-align: center;
-	font-size: 2em;
+	font-size: 2vh;
 	font-family: Verdana;
 	color: black;
 }
