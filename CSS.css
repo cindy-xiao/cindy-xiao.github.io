@@ -3,6 +3,7 @@ html, body {
 	margin: 0;
     padding: 0;
     width: 100%;
+    font-size: 100%;
 }
 
 #hello{
@@ -25,7 +26,7 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	margin: 2px;
+	margin: 1em;
 	border: 0;
 	width: 20%;
 	height: 20%;
@@ -43,7 +44,7 @@ html, body {
 #Research{
 	
 	height: 20%;
-	margin: 2px;
+	margin: 1em;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -62,7 +63,7 @@ html, body {
 #Violin{
 	
 	height: 20%;
-	margin: 2px;
+	margin: 1em;
 	padding: 0;
 	border: 0;
 	width: 20%;
