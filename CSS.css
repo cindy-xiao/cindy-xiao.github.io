@@ -118,7 +118,7 @@ html, body {
 }
 #EWB{
 	position: absolute;
-	
+	right: -10vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
