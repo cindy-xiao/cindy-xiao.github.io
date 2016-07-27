@@ -6,6 +6,7 @@ html, body {
 }
 
 #hello{
+	display: inline-block;
 	height: 60%;
 	margin: 0;
 	padding: 0;
