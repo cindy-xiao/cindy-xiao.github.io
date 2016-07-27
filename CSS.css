@@ -55,7 +55,7 @@ html, body {
 }
 #Research1{
 	position: absolute;
-	right: 95vmin;
+	right: 120vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -75,9 +75,30 @@ html, body {
 	background-size: 100% 100%;*/
 	
 }
+#Violin{
+	position: absolute;
+	right: 40vmin;
+	padding: 0;
+	border-radius: 3vmin;
+	margin: 2vmin;
+	border: 0;
+	width: 17.5%;
+	height: 60%;
+	background-color: #778899;
+	padding: 6vmin 0vmin;
+	text-align: center;
+	font-size: 2vmin;
+	font-family: Verdana;
+	color: white;
+	/*background-image: url("Research.jpg");
+	background-color: blue;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;*/
+	
+}
 #Research2{
 	position: absolute;
-	right: 70vmin;
+	right: 80vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -97,27 +118,7 @@ html, body {
 	background-size: 100% 100%;*/
 }
 
-#Violin{
-	position: absolute;
-	right: 30vmin;
-	padding: 0;
-	border-radius: 3vmin;
-	margin: 2vmin;
-	border: 0;
-	width: 17.5%;
-	height: 60%;
-	background-color: #778899;
-	padding: 6vmin 0vmin;
-	text-align: center;
-	font-size: 2vmin;
-	font-family: Verdana;
-	color: white;
-	/*background-image: url("Research.jpg");
-	background-color: blue;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;*/
-	
-}
+
 #EWB{
 	position: absolute;
 	right: 0vmin;
