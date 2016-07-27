@@ -31,8 +31,8 @@ html, body {
 }
 
 #DS{
+	position: absolute;
 	
-	float: left;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -52,8 +52,8 @@ html, body {
 
 }
 #Research1{
+	position: absolute;
 	
-	float: left;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -74,8 +74,8 @@ html, body {
 	
 }
 #Research2{
+	position: absolute;
 	
-	float: left;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -96,8 +96,8 @@ html, body {
 }
 
 #Violin{
+	position: absolute;
 	
-	float: left;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -117,8 +117,8 @@ html, body {
 	
 }
 #EWB{
+	position: absolute;
 	
-	float: right;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
