@@ -11,6 +11,7 @@ html, body {
 	background-color: gray;
 	height: 40%;
 	padding: 0;
+	position: relative;
 }
 #hello{
 	display: block;
@@ -30,7 +31,7 @@ html, body {
 }
 
 #DS{
-	
+	position: absolute;
 	float: left;
 	padding: 0;
 	border-radius: 3vmin;
@@ -116,7 +117,7 @@ html, body {
 	
 }
 #EWB{
-	
+	position: absolute;
 	float: left;
 	padding: 0;
 	border-radius: 3vmin;
