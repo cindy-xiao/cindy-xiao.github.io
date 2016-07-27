@@ -9,8 +9,8 @@ html, body {
 	height: 60%;
 	margin: 0;
 	padding: 0;
-	border: 0
-	width: 100%;
+	border: 0;
+	width: 100;
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 80%;
@@ -24,7 +24,7 @@ html, body {
 	float: left;
 	margin: 0;
 	padding: 0;
-	border: 0
+	border: 0;
 	width: 20%;
 	height: 40%;
 	background-image: url("DS.jpg");
