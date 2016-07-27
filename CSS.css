@@ -19,5 +19,9 @@ html, body {
 	font-family: Verdana;
 	color: white;
 }
+.class{
+	float: left;
+
+}
 /*<a href = "test.html">test1</a>*/
 
