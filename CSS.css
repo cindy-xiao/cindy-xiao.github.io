@@ -11,7 +11,7 @@ html, body {
 	background-color: gray;
 	height: 40%;
 	padding: 0;
-	white-space: nowrap;
+
 }
 #hello{
 	display: block;
@@ -23,9 +23,9 @@ html, body {
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
-	padding-top: 10vh;
+	padding-top: 10vmin;
 	text-align: center;
-	font-size: 5vh;
+	font-size: 5vmin;
 	font-family: Verdana;
 	color: white;
 }
@@ -34,15 +34,15 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	border-radius: 3vh;
-	margin: 2vh;
+	border-radius: 3vmin;
+	margin: 2vmin;
 	border: 0;
 	width: 17.5%;
 	height: 60%;
 	background-color: #778899;
-	padding: 6vh 0vh;
+	padding: 6vmin 0vmin;
 	text-align: center;
-	font-size: 2vh;
+	font-size: 2vmin;
 	font-family: Verdana;
 	color: white;
 	/*background-image: url("DS.jpg");
@@ -55,15 +55,15 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	border-radius: 3vh;
-	margin: 2vh;
+	border-radius: 3vmin;
+	margin: 2vmin;
 	border: 0;
 	width: 17.5%;
 	height: 60%;
 	background-color: #778899;
-	padding: 6vh 0vh;
+	padding: 6vmin 0vmin;
 	text-align: center;
-	font-size: 2vh;
+	font-size: 2vmin;
 	font-family: Verdana;
 	color: white;
 	
@@ -77,15 +77,15 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	border-radius: 3vh;
-	margin: 2vh;
+	border-radius: 3vmin;
+	margin: 2vmin;
 	border: 0;
 	width: 17.5%;
 	height: 60%;
 	background-color: #778899;
-	padding: 6vh 0vh;
+	padding: 6vmin 0vmin;
 	text-align: center;
-	font-size: 2vh;
+	font-size: 2vmin;
 	font-family: Verdana;
 	color: white;
 	
@@ -99,15 +99,15 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	border-radius: 3vh;
-	margin: 2vh;
+	border-radius: 3vmin;
+	margin: 2vmin;
 	border: 0;
 	width: 17.5%;
 	height: 60%;
 	background-color: #778899;
-	padding: 6vh 0vh;
+	padding: 6vmin 0vmin;
 	text-align: center;
-	font-size: 2vh;
+	font-size: 2vmin;
 	font-family: Verdana;
 	color: white;
 	/*background-image: url("Research.jpg");
@@ -120,15 +120,15 @@ html, body {
 	
 	float: left;
 	padding: 0;
-	border-radius: 3vh;
-	margin: 2vh;
+	border-radius: 3vmin;
+	margin: 2vmin;
 	border: 0;
 	width: 17.5%;
 	height: 60%;
 	background-color: #778899;
-	padding: 6vh 0vh;
+	padding: 6vmin 0vmin;
 	text-align: center;
-	font-size: 2vh;
+	font-size: 2vmin;
 	font-family: Verdana;
 	color: white;
 	/*background-image: url("Research.jpg");
