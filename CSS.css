@@ -43,7 +43,7 @@ html, body {
 
 #DS{
 	position: absolute;
-	left: 0vmin;
+	left: 0;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -63,7 +63,7 @@ html, body {
 }
 #Research1{
 	position: absolute;
-	right: 133vmin;
+	right: 10%;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
