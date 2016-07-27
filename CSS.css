@@ -18,6 +18,7 @@ html, body {
 	font-size: 5vmin;
 	font-family: Verdana;
 	color: white;
+	text-decoration: none;
 
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
