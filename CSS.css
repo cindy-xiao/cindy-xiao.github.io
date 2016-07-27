@@ -22,7 +22,8 @@ html, body {
 	color: white;
 }
 #DS{
-	margin-top: -3em;
+	margin-top: -3.25em;
+	display: inline-block;
 	padding: 0;
 	border: 0;
 	width: 20%;
@@ -38,7 +39,8 @@ html, body {
 	color: white;
 }
 #Research{
-	margin-top: -3em;
+	margin-top: -3.25em;
+	display: inline-block;
 	padding: 0;
 	border: 0;
 	width: 20%;
