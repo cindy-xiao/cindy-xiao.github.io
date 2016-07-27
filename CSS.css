@@ -13,11 +13,9 @@ html, body {
 	height: 60%;
 	border: 0;
 	width: 100%;
-	/**background-image: url("Hello.jpg");
+	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
-	background-size: auto;
-	*/
-	background-color: blue;
+	background-size: cover;
 	padding-top: 10vmin;
 	text-align: center;
 	font-size: 5vmin;
