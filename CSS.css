@@ -5,10 +5,19 @@ html, body {
     width: 100%;
     font-size: 100%;
 }
+<<<<<<< HEAD
 
 #container{
 
 
+=======
+#bigcontainer{
+	position: relative;
+}
+#container{
+	position: absolute;
+	float: clear;
+>>>>>>> fbd00fedb45889c4daf3e9ae75afa236e19c412d
 	width: 100%;
 	background-color: gray;
 	height: 40%;
@@ -17,7 +26,11 @@ html, body {
 }
 #hello{
 	position: absolute;	
+<<<<<<< HEAD
 	/*display: block;*/
+=======
+	display: block;
+>>>>>>> fbd00fedb45889c4daf3e9ae75afa236e19c412d
 	height: 60%;
 	margin: 0;
 	padding: 0;
