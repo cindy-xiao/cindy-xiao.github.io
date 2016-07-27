@@ -41,10 +41,10 @@ html, body {
 	font-size: 2vh;
 	font-family: Verdana;
 	color: white;
-	position: relative;
+	
 }
 #DS{
-	position: absolute;
+	
 	background-color: black;
 	height: 100%;
 	width: 100%;
@@ -55,7 +55,7 @@ html, body {
 
 }
 #Research{
-	position: absolute;
+	
 	background-color: yellow;
 	
 	/*background-image: url("Research.jpg");
@@ -65,7 +65,7 @@ html, body {
 	
 }
 #Violin{
-	position: absolute;
+	
 	background-color: green;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
@@ -74,7 +74,7 @@ html, body {
 	
 }
 #EWB{
-	position: absolute;
+	
 	background-color: purple;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
