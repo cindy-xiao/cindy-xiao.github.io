@@ -6,12 +6,13 @@ html, body {
 }
 
 #hello{
+	height: 60%;
+	margin: 0;
+	padding: 0;
 	width: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	
-	
+	background-image: url("Hello.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
 }
 
 
