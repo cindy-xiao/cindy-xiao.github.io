@@ -27,7 +27,30 @@ html, body {
 	font-family: Verdana;
 	color: white;
 }
-.back{
+
+#DS{
+	
+	float: left;
+	padding: 0;
+	border-radius: 10vh;
+	margin: 2vh;
+	border: 0;
+	width: 17%;
+	height: 60%;
+	background-color: #778899;
+	padding: 5vh 0vh;
+	text-align: center;
+	font-size: 2vh;
+	font-family: Verdana;
+	color: white;
+	/*background-image: url("DS.jpg");
+	background-color: blue;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;*/
+
+}
+#Research{
+	
 	float: left;
 	padding: 0;
 	border-radius: 10vh;
@@ -42,20 +65,6 @@ html, body {
 	font-family: Verdana;
 	color: white;
 	
-}
-#DS{
-	
-	background-color: black;
-	/*background-image: url("DS.jpg");
-	background-color: blue;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;*/
-
-}
-#Research{
-	
-	background-color: yellow;
-	
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
@@ -64,7 +73,19 @@ html, body {
 }
 #Violin{
 	
-	background-color: green;
+	float: left;
+	padding: 0;
+	border-radius: 10vh;
+	margin: 2vh;
+	border: 0;
+	width: 17%;
+	height: 60%;
+	background-color: #778899;
+	padding: 5vh 0vh;
+	text-align: center;
+	font-size: 2vh;
+	font-family: Verdana;
+	color: white;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
@@ -73,7 +94,19 @@ html, body {
 }
 #EWB{
 	
-	background-color: purple;
+	float: left;
+	padding: 0;
+	border-radius: 10vh;
+	margin: 2vh;
+	border: 0;
+	width: 17%;
+	height: 60%;
+	background-color: #778899;
+	padding: 5vh 0vh;
+	text-align: center;
+	font-size: 2vh;
+	font-family: Verdana;
+	color: white;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
 	background-repeat: no-repeat;
