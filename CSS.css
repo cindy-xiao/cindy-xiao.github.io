@@ -40,7 +40,7 @@ html, body {
 }
 #Research{
 	/**margin-top: -5.2em;*/
-	display: inline;
+	display: inline-block;
 	padding: 0;
 	border: 0;
 	width: 20%;
