@@ -43,7 +43,7 @@ html, body {
 
 #DS{
 	position: absolute;
-	
+	left: 0vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
