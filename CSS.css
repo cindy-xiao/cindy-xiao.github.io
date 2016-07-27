@@ -15,7 +15,7 @@ html, body {
 	width: 100%;
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: auto;
 	padding-top: 10vmin;
 	text-align: center;
 	font-size: 5vmin;
