@@ -74,7 +74,7 @@ html, body {
 }
 #Research2{
 	
-	float: right;
+	float: left;
 	padding: 0;
 	border-radius: 5vh;
 	margin: 2vh;
@@ -117,7 +117,7 @@ html, body {
 }
 #EWB{
 	
-	float: right;
+	float: left;
 	padding: 0;
 	border-radius: 5vh;
 	margin: 2vh;
