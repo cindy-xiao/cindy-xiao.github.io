@@ -12,11 +12,11 @@ html, body {
 	width: 100%;
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
-	background-size: 100% 60%;
+	background-size: 100% 100%;
 	text-align: center;
 	font-size: 2.5 em;
 	font-family: Verdana;
 	color: white;
 }
-
+/*<a href = "test.html">test1</a>*/
 
