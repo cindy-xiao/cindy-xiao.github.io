@@ -84,7 +84,7 @@ html, body {
 }
 #Violin{
 	position: absolute;
-	right: 89vmin;
+	right: 50%;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -105,7 +105,7 @@ html, body {
 }
 #Research2{
 	position: absolute;
-	right: 44vmin;
+	right: 30%;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
@@ -127,7 +127,7 @@ html, body {
 
 #EWB{
 	position: absolute;
-	right: 0vmin;
+	right: 0;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
