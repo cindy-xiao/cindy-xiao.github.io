@@ -11,10 +11,10 @@ html, body {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	width: 100;
+	width: 100%;
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
-	background-size: 100% 80%;
+	background-size: 100%;
 	padding-top: 10%;
 	text-align: center;
 	font-size: 5em;
@@ -22,12 +22,12 @@ html, body {
 	color: white;
 }
 #DS{
-	margin-top: -3em;
+	/*margin-top: -3em;*/
 	float: left;
 	padding: 0;
 	border: 0;
 	width: 20%;
-	height: 40%;
+	
 	background-color: blue;
 	/*background-image: url("DS.jpg");
 	background-color: blue;
@@ -45,7 +45,7 @@ html, body {
 	padding: 0;
 	border: 0;
 	width: 20%;
-	height: 40%;
+	
 	background-color: blue;
 	/*background-image: url("Research.jpg");
 	background-color: blue;
