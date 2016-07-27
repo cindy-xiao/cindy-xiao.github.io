@@ -15,6 +15,7 @@ html, body {
 	width: 100%;
 	background-image: url("Hello.jpg");
 	background-repeat: no-repeat;
+	/*ISSUE IS HERE */
 	background-size: cover;
 	padding-top: 10vmin;
 	text-align: center;
@@ -119,7 +120,7 @@ html, body {
 }
 #EWB{
 	position: absolute;
-	right: -20vmin;
+	right: -50vmin;
 	padding: 0;
 	border-radius: 3vmin;
 	margin: 2vmin;
