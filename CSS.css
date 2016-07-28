@@ -5,14 +5,9 @@ html, body {
     width: 100%;
     font-size: 100%;
 }
-/**a{
+a{
 	text-decoration: none;
-	padding-top: 10vmin;
-	text-align: center;
-	font-size: 5vmin;
-	font-family: Verdana;
-	color: white;
-}*/
+}
 
 #hello{
 	
