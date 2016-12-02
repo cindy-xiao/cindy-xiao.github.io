@@ -50,6 +50,18 @@ li a:hover {
 	background-size: cover;
 	
 }
+
+#quote{
+	height: 100%;
+	border: 0;
+	width: 50%;
+	padding-top: 7vmin;
+	text-align: center;
+	font-size: 4vmin;
+	font-family: "Lucida Grande";
+	
+	
+}
 #container{
 	
 	width: 100%;
