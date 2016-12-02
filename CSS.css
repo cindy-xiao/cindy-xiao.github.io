@@ -12,6 +12,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #778899;
+	color: #DCDCDC;
 }
 
 li {
@@ -40,7 +41,7 @@ li a:hover {
 	text-align: center;
 	font-size: 3.5vmin;
 	font-family: "Lucida Grande";
-	color: #DCDCDC;
+	
 	
 
 	background-image: url("Hello.png");
