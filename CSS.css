@@ -12,7 +12,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #778899;
-	color: #DCDCDC;
+	
 }
 
 li {
@@ -24,6 +24,7 @@ li a {
     text-align: center;
     padding: 1vmin 1vmin;
     text-decoration: none;
+	color: #DCDCDC;
 }
 
 /* Change the link color to #111 (black) on hover */
