@@ -10,6 +10,16 @@ html, body {
 	
     
 }
+.dropbtn {
+    position: absolute;
+    background-color: #4CAF50;
+    color: white;
+    padding: 2vmin;
+    font-size: 2vmin;
+    border: none;
+    cursor: pointer;
+}
+
 
 .dropdown{
     display: none;
@@ -46,14 +56,6 @@ ul {
 	
 }
 
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 2vmin;
-    font-size: 2vmin;
-    border: none;
-    cursor: pointer;
-}
 
 li {
     float: left;
