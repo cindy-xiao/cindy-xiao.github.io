@@ -54,7 +54,7 @@ transition: all 500ms ease;
 
 .dropdown a {
     color: #ebf0fa;
-    padding: 1.5vmin 2.4vmin;
+    padding: 1.5vmin 2.6vmin;
     text-decoration: none;
     font-size: 2vmin;
     display: block;
@@ -72,7 +72,7 @@ transition: all 500ms ease;
 
 .dropdown2 a {
     color: #ebf0fa;
-    padding: 2.5vmin 3.55vmin;
+    padding: 2.5vmin 3.51vmin;
     text-decoration: none;
     display: block;
 -webkit-transition: all 500ms ease;
