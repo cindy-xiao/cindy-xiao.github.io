@@ -7,14 +7,14 @@ html, body {
 }
 .dropdownDSP:hover .dropdown {
     display: block;
-    -webkit-transition-delay: 1s;
+    -webkit-transition-delay: 5s;
 }
 
 .dropdown{
     display: none;
     position: absolute;
 	top: 7.8%;
-	left: 7.5%;
+	left: 7%;
     background-color: #778899;
     min-width: 4vmin;
 }
