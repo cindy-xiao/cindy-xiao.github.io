@@ -40,11 +40,11 @@ transition: all 500ms ease;
 	top: 7.9vmin;
 	left: 13.1vmin;
     background-color: #8b9ba7;
-	-webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
+	-webkit-transition: all 500s ease;
+-moz-transition: all 500s ease;
+-ms-transition: all 500s ease;
+-o-transition: all 500s ease;
+transition: all 500s ease;
 	
 	
 }
@@ -149,11 +149,11 @@ li a:hover {
 }
 
 #quote{
-	height: 80%;
+	height: 80vmin;
 	border: 0;
 	position: absolute;
-	left: 30%;
-	right: 30%;
+	left: 30vmin;
+	right: 30vmin;
 	padding-top: 5vmin;
 	text-align: center;
 	font-size: 3.5vmin;
