@@ -38,7 +38,7 @@ transition: all 500ms ease;
     display: none;
     position: absolute;
 	top: 7.8vmin;
-	left: 13.2vmin;
+	left: 13.1vmin;
     background-color: #8b9ba7;
 	
 	
@@ -48,13 +48,13 @@ transition: all 500ms ease;
     display: none;
     position: absolute;
 	top: 7.8vmin;
-	left: 32vmin;
+	left: 32.5vmin;
     background-color: #8b9ba7;
 }
 
 .dropdown a {
     color: #ebf0fa;
-    padding: 2vmin 2.84vmin;
+    padding: 2vmin 2.85vmin;
     text-decoration: none;
     font-size: 2vmin;
     display: block;
@@ -72,7 +72,7 @@ transition: all 500ms ease;
 
 .dropdown2 a {
     color: #ebf0fa;
-    padding: 2.5vmin 3.49vmin;
+    padding: 2.5vmin 3.48vmin;
     text-decoration: none;
     display: block;
 -webkit-transition: all 500ms ease;
