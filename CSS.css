@@ -29,7 +29,9 @@ transition: all 500ms ease;
 	
 }
 
-
+#adjust{
+	left:20%;
+}
 .dropdown{
     display: none;
     position: absolute;
