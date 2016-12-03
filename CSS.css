@@ -38,7 +38,7 @@ transition: all 500ms ease;
     display: none;
     position: absolute;
 	top: 7.8vmin;
-	left: 13.25vmin;
+	left: 13.2vmin;
     background-color: #8b9ba7;
 	
 	
@@ -48,7 +48,7 @@ transition: all 500ms ease;
     display: none;
     position: absolute;
 	top: 7.8vmin;
-	left: 32.4vmin;
+	left: 32vmin;
     background-color: #8b9ba7;
 }
 
