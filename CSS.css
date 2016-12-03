@@ -1,3 +1,4 @@
+
 html, body {
 	height: 100%;
 	margin: 0;
@@ -40,11 +41,7 @@ transition: all 500ms ease;
 	top: 7.9vmin;
 	left: 13.1vmin;
     background-color: #8b9ba7;
-	-webkit-transition: all 500s ease;
--moz-transition: all 500s ease;
--ms-transition: all 500s ease;
--o-transition: all 500s ease;
-transition: all 500s ease;
+	
 	
 	
 }
@@ -54,11 +51,6 @@ transition: all 500s ease;
 	top: 7.9vmin;
 	left: 32.155vmin;
     background-color: #8b9ba7;
-	-webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
 }
 
 .dropdown a {
@@ -67,6 +59,11 @@ transition: all 500ms ease;
     text-decoration: none;
     font-size: 2vmin;
     display: block;
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
 }
 
 .dropdown a:hover {
@@ -79,6 +76,11 @@ transition: all 500ms ease;
     padding: 2.5vmin 3.445vmin;
     text-decoration: none;
     display: block;
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
 }
 
 .dropdown2 a:hover {
@@ -139,11 +141,11 @@ li a:hover {
 }
 
 #quote{
-	height: 80vmin;
+	height: 80%;
 	border: 0;
 	position: absolute;
-	left: 60vmin;
-	right: 60vmin;
+	left: 30%;
+	right: 30%;
 	padding-top: 5vmin;
 	text-align: center;
 	font-size: 3.5vmin;
@@ -153,10 +155,11 @@ li a:hover {
 	line-height: 6vmin;
 }
 #source{
-	height: 30vmin;
+	height: 30%;
 	border: 0;
 	position: absolute;
-	left: 125vmin;
+	left: 60%;
+	right: 24.5%;
 	padding-top: 30vmin;
 	text-align: center;
 	font-size: 3vmin;
