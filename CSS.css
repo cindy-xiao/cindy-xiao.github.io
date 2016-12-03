@@ -155,11 +155,11 @@ li a:hover {
 	line-height: 6vmin;
 }
 #source{
-	height: 30%;
+	height: 40%;
 	border: 0;
 	position: absolute;
-	left: 60%;
-	right: 24.5%;
+	left: 70%;
+	right: 14.5%;
 	padding-top: 30vmin;
 	text-align: center;
 	font-size: 3vmin;
