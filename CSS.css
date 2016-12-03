@@ -11,7 +11,6 @@ html, body {
     
 }
 
-
 .dropdown{
     display: none;
     position: absolute;
@@ -49,12 +48,20 @@ ul {
 
 li {
     float: left;
- 
     display: block;
     text-align: center;
     padding: 2.5vmin 3vmin;
     text-decoration: none;
     color: #ebf0fa;
+}
+li a{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 2.5vmin 3vmin;
+    text-decoration: none;
+    color: #ebf0fa;
+}
 	
 -webkit-transition: all 500ms ease;
 -moz-transition: all 500ms ease;
@@ -66,6 +73,10 @@ transition: all 500ms ease;
 
 /* Change the link color to #111 (black) on hover */
 li :hover {
+    background-color: #333333;
+}
+
+li a:hover {
     background-color: #333333;
 }
 
