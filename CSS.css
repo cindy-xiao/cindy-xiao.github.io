@@ -17,7 +17,8 @@ transition: all 500ms ease;
 .dropdown{
     display: none;
     position: absolute;
-
+top: 10%;
+	left: 20%;
     background-color: #778899;
     min-width: 4vmin;
 }
