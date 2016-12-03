@@ -10,9 +10,9 @@ html, body {
 	
     
 }
-/*#clubs{
+#clubs{
     left: 15vmin;
-}*/
+}
 
 .dropdown{
     display: none;
