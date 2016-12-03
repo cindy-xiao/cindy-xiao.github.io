@@ -7,7 +7,7 @@ html, body {
 }
 .dropdownDSP:hover .dropdown {
     display: block;
-    -webkit-transition-delay: 5s;
+    
 }
 
 .dropdown{
@@ -17,6 +17,7 @@ html, body {
 	left: 7%;
     background-color: #778899;
     min-width: 4vmin;
+	-webkit-transition-delay: 5s;
 }
 
 .dropdown a {
