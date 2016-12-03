@@ -49,9 +49,7 @@ ul {
 
 li {
     float: left;
-}
-
-li a {
+ 
     display: block;
     text-align: center;
     padding: 2.5vmin 3vmin;
@@ -67,7 +65,7 @@ transition: all 500ms ease;
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+li :hover {
     background-color: #333333;
 }
 
