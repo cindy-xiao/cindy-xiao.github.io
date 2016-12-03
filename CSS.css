@@ -11,12 +11,12 @@ html, body {
     
 }
 .dropbtn {
-    position: relative;
-    background-color: #4CAF50;
-    color: white;
-    padding: 2vmin;
-    font-size: 2vmin;
-    border: none;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 2.5vmin 3vmin;
+    text-decoration: none;
+    color: #ebf0fa;
     cursor: pointer;
 }
 
