@@ -66,121 +66,21 @@ li a:hover {
 	right: 30%;
 	padding-top: 7vmin;
 	text-align: center;
-	font-size: 4vmin;
+	font-size: 3.5vmin;
 	font-family: "Lato";
-	color: #60606c;	
+	color: #a0a0ab;	
 	font-weight: bold;
 }
-#container{
-	
-	width: 100%;
-	background-color: #F2F2F2;
-	height: 40%;
-	padding: 0;
-	position: relative;
-}
-
-#DS{
-	position: absolute;
-	left: 0;
-	padding: 0;
-	border-radius: 3vmin;
-	margin: 2vmin;
+#source{
+	height: 30%;
 	border: 0;
-	width: 17.5%;
-	height: 60%;
-	padding: 6vmin 0vmin;
-	text-align: center;
-	font-size: 2vmin;
-	font-family: Verdana;
-	color: white;
-
-	background-image: url("DS.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-
-}
-#Research1{
 	position: absolute;
-	right: 60%;
-	padding: 0;
-	border-radius: 3vmin;
-	margin: 2vmin;
-	border: 0;
-	width: 17.5%;
-	height: 60%;
-	padding: 6vmin 0vmin;
+	left: 30%;
+	right: 30%;
+	padding-top: 2vmin;
 	text-align: center;
-	font-size: 2vmin;
-	font-family: Verdana;
-	color: white;
-	
-	background-image: url("Research1.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	
+	font-size: 2.5vmin;
+	font-family: "Lato";
+	color: #a0a0ab;	
 }
-#Violin{
-	position: absolute;
-	right: 40%;
-	padding: 0;
-	border-radius: 3vmin;
-	margin: 2vmin;
-	border: 0;
-	width: 17.5%;
-	height: 60%;
-	padding: 6vmin 0vmin;
-	text-align: center;
-	font-size: 2vmin;
-	font-family: Verdana;
-	color: black;
-
-	background-image: url("Violin.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	
-}
-#Research2{
-	position: absolute;
-	right: 20%;
-	padding: 0;
-	border-radius: 3vmin;
-	margin: 2vmin;
-	border: 0;
-	width: 17.5%;
-	height: 60%;
-	padding: 6vmin 0vmin;
-	text-align: center;
-	font-size: 2vmin;
-	font-family: Verdana;
-	color: white;
-	
-	background-image: url("Research2.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
-
-#EWB{
-	position: absolute;
-	right: 0;
-	padding: 0;
-	border-radius: 3vmin;
-	margin: 2vmin;
-	border: 0;
-	width: 17.5%;
-	height: 60%;
-	padding: 6vmin 0vmin;
-	text-align: center;
-	font-size: 2vmin;
-	font-family: Verdana;
-	color: white;
-	
-	background-image: url("EWB.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	
-}
-	
-
 
