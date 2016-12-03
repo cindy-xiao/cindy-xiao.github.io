@@ -48,7 +48,7 @@ transition: all 500ms ease;
     display: none;
     position: absolute;
 	top: 7.8vmin;
-	left: 32.1vmin;
+	left: 32.09vmin;
     background-color: #8b9ba7;
 }
 
@@ -72,7 +72,7 @@ transition: all 500ms ease;
 
 .dropdown2 a {
     color: #ebf0fa;
-    padding: 2.5vmin 3.48vmin;
+    padding: 2.5vmin 3.47vmin;
     text-decoration: none;
     display: block;
 -webkit-transition: all 500ms ease;
