@@ -67,11 +67,6 @@ transition: all 500ms ease;
     text-decoration: none;
     font-size: 2vmin;
     display: block;
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
 }
 
 .dropdown a:hover {
@@ -84,11 +79,6 @@ transition: all 500ms ease;
     padding: 2.5vmin 3.445vmin;
     text-decoration: none;
     display: block;
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
 }
 
 .dropdown2 a:hover {
@@ -152,8 +142,8 @@ li a:hover {
 	height: 80vmin;
 	border: 0;
 	position: absolute;
-	left: 30vmin;
-	right: 30vmin;
+	left: 40vmin;
+	right: 40vmin;
 	padding-top: 5vmin;
 	text-align: center;
 	font-size: 3.5vmin;
@@ -166,7 +156,7 @@ li a:hover {
 	height: 30vmin;
 	border: 0;
 	position: absolute;
-	left: 60vmin;
+	left: 80vmin;
 	right: 30vmin;
 	padding-top: 30vmin;
 	text-align: center;
