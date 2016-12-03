@@ -7,13 +7,19 @@ html, body {
 }
 .dropdownDSP:hover .dropdown {
     display: block;
+	-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
 }
 
 .dropdown{
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
+
+    background-color: #778899;
+    min-width: 4vmin;
 }
 
 .dropdown a {
@@ -24,7 +30,12 @@ html, body {
 }
 
 .dropdown a:hover {
-	background-color: #778899;
+	background-color: #333333;
+	-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
 }
 
 ul {
