@@ -25,6 +25,13 @@ li a {
     padding: 2.5vmin 3vmin;
     text-decoration: none;
     color: #ebf0fa;
+	
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+-ms-transition: all 500ms ease;
+-o-transition: all 500ms ease;
+transition: all 500ms ease;
+	
 }
 
 /* Change the link color to #111 (black) on hover */
