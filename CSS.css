@@ -11,7 +11,7 @@ html, body {
     
 }
 .dropbtn {
-    position: absolute;
+    position: relative;
     background-color: #4CAF50;
     color: white;
     padding: 2vmin;
