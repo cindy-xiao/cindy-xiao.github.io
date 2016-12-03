@@ -77,9 +77,9 @@ li a:hover {
 	position: absolute;
 	left: 30%;
 	right: 30%;
-	padding-top: 15vmin;
+	padding-top: 30vmin;
 	text-align: center;
-	font-size: 2.5vmin;
+	font-size: 3vmin;
 	font-family: "Lato";
 	color: #858593;
 }
