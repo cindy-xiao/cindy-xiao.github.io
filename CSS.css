@@ -46,20 +46,17 @@ ul {
 	
 }
 
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 2vmin;
+    font-size: 2vmin;
+    border: none;
+    cursor: pointer;
+}
+
 li {
     float: left;
-	
-	display: block;
-    text-align: center;
-    padding: 2.5vmin 3vmin;
-    text-decoration: none;
-    color: #ebf0fa;
-	
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
 }
 
 li a {
