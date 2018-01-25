@@ -24,10 +24,7 @@ html, body {
     text-decoration: none;
     color: #ebf0fa;
     cursor: pointer;	
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
+
 transition: all 500ms ease;
 }
 .dropbtn:hover {
@@ -46,24 +43,20 @@ transition: all 500ms ease;
 	
 }
 .dropdown2{
-    display: none;
-    position: absolute;
+	display: none;
+	position: absolute;
 	top: 8vmin;
 	left: 32.155vmin;
     background-color: #8b9ba7;
 }
 
 .dropdown a {
-    color: #ebf0fa;
-    padding: 2vmin 2.85vmin;
-    text-decoration: none;
-    font-size: 2vmin;
-    display: block;
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
+	color: #ebf0fa;
+	padding: 2vmin 2.85vmin;
+	text-decoration: none;
+	font-size: 2vmin;
+	display: block;
+	transition: all 500ms ease;
 }
 
 .dropdown a:hover {
@@ -72,15 +65,12 @@ transition: all 500ms ease;
 }
 
 .dropdown2 a {
-    color: #ebf0fa;
-    padding: 2.5vmin 3.445vmin;
-    text-decoration: none;
-    display: block;
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
+	color: #ebf0fa;
+	padding: 2.5vmin 3.445vmin;
+	text-decoration: none;
+	display: block;
+
+	transition: all 500ms ease;
 }
 
 .dropdown2 a:hover {
@@ -102,17 +92,12 @@ li {
 }
 
 li a {
-    display: block;
-    text-align: center;
-    padding: 2.5vmin 3vmin;
-    text-decoration: none;
-    color: #ebf0fa;
-	
--webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
+	display: block;
+	text-align: center;
+	padding: 2.5vmin 3vmin;
+	text-decoration: none;
+	color: #ebf0fa;
+	transition: all 500ms ease;
 	
 }
 
@@ -130,7 +115,7 @@ li a:hover {
 	padding-top: 0;
 	text-align: center;
 	font-size: 2.5vmin;
-	font-family: "Lucida Grande";
+	font-family: "Hiragino Sans";
 	
 	
 
