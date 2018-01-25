@@ -18,6 +18,7 @@ html, body {
 .dropbtn {
     float: left;
     display: flex;
+	
 	flex-direction: row;
     text-align: center;
     padding: 2.5vmin 3vmin;
@@ -57,6 +58,7 @@ transition: all 500ms ease;
 	text-decoration: none;
 	font-size: 2vmin;
 	display: flex;
+	flex-direction: row;
 	transition: all 500ms ease;
 }
 
