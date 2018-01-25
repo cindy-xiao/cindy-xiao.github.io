@@ -6,19 +6,18 @@ html, body {
     	width: 100%;
     	font-size: 100%;
 }
+
 .dropdownDSP:hover .dropdown {
-    display: block;
-	
-    
+    display: flex;	   
 }
+
 .dropdownDSP:hover .dropdown2 {
-    display: block;
-	
-    
+    display: flex;    
 }
+
 .dropbtn {
     float: left;
-    display: block;
+    display: flex;
     text-align: center;
     padding: 2.5vmin 3vmin;
     text-decoration: none;
@@ -33,7 +32,7 @@ transition: all 500ms ease;
 }
 
 .dropdown{
-    display: none;
+    display: flex;
     position: absolute;
 	top: 8vmin;
 	left: 13.1vmin;
@@ -55,7 +54,7 @@ transition: all 500ms ease;
 	padding: 2vmin 2.85vmin;
 	text-decoration: none;
 	font-size: 2vmin;
-	display: block;
+	display: flex;
 	transition: all 500ms ease;
 }
 
@@ -68,7 +67,7 @@ transition: all 500ms ease;
 	color: #ebf0fa;
 	padding: 2.5vmin 3.445vmin;
 	text-decoration: none;
-	display: block;
+	display: flex;
 
 	transition: all 500ms ease;
 }
@@ -92,7 +91,7 @@ li {
 }
 
 li a {
-	display: block;
+	display: flex;
 	text-align: center;
 	padding: 2.5vmin 3vmin;
 	text-decoration: none;
@@ -134,7 +133,7 @@ li a:hover {
 	padding-top: 5vmin;
 	text-align: center;
 	font-size: 3.5vmin;
-	font-family: "Lato";
+	font-family: "Hiragino Sans";
 	color: #858593;	
 	font-weight: bold;
 	line-height: 6vmin;
@@ -148,6 +147,6 @@ li a:hover {
 	padding-top: 30vmin;
 	text-align: center;
 	font-size: 3vmin;
-	font-family: "Lato";
+	font-family: "Hiragino Sans";
 	color: #858593;
 }
