@@ -154,3 +154,8 @@ li a:hover {
 	font-family: "Hiragino Sans";
 	color: #858593;
 }
+#test{
+	height: 40%;
+	border: 0;
+	position: absolute;
+}
