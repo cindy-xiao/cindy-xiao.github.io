@@ -6,112 +6,7 @@ html, body {
     	width: 100%;
     	font-size: 100%;
 }
-
-.dropdownDSP:hover .dropdown {
-    display: flex;	   
-}
-
-.dropdownDSP:hover .dropdown2 {
-    display: flex;    
-}
-
-.dropbtn {
-    float: left;
-    display: flex;
-	
-	flex-direction: row;
-    text-align: center;
-    padding: 2.5vmin 3vmin;
-    text-decoration: none;
-    color: #ebf0fa;
-    cursor: pointer;	
-
-transition: all 500ms ease;
-}
-.dropbtn:hover {
-	background-color: #333333;
-	
-}
-
-.dropdown{
-    display: flex;
-    position: absolute;
-	flex-direction: row
-	top: 8vmin;
-	left: 13.1vmin;
-    background-color: #8b9ba7;
-	
-	
-	
-}
-.dropdown2{
-	display: none;
-	position: absolute;
-	top: 8vmin;
-	left: 32.155vmin;
-    background-color: #8b9ba7;
-}
-
-.dropdown a {
-	color: #ebf0fa;
-	padding: 2vmin 2.85vmin;
-	text-decoration: none;
-	font-size: 2vmin;
-	display: flex;
-	flex-direction: row;
-	transition: all 500ms ease;
-}
-
-.dropdown a:hover {
-	background-color: #333333;
-
-}
-
-.dropdown2 a {
-	color: #ebf0fa;
-	padding: 2.5vmin 3.445vmin;
-	text-decoration: none;
-	display: flex;
-
-	transition: all 500ms ease;
-}
-
-.dropdown2 a:hover {
-	background-color: #333333;
-
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #778899;
-	
-}
-
-li {
-    float: left;
-}
-
-li a {
-	display: flex;
-	text-align: center;
-	padding: 2.5vmin 3vmin;
-	text-decoration: none;
-	color: #ebf0fa;
-	transition: all 500ms ease;
-	
-}
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: #333333;
-}
-
-#hello{
-	
-	
+#background{
 	height: 100%;
 	border: 0;
 	width: 100%;
@@ -119,43 +14,7 @@ li a:hover {
 	text-align: center;
 	font-size: 2.5vmin;
 	font-family: "Hiragino Sans";
-	
-	
-
 	background-image: url("Hello.png");
 	background-repeat: repeat;
 	background-size: cover;
-	
-}
-
-#quote{
-	height: 200%;
-	border: 0;
-	position: absolute;
-	left: 20%;
-	right: 20%;
-	padding-top: 5vmin;
-	text-align: center;
-	font-size: 3.5vmin;
-	font-family: "Hiragino Sans";
-	color: #858593;	
-	font-weight: bold;
-	line-height: 6vmin;
-}
-#source{
-	height: 40%;
-	border: 0;
-	position: absolute;
-	left: 69%;
-	right: 14.5%;
-	padding-top: 30vmin;
-	text-align: center;
-	font-size: 3vmin;
-	font-family: "Hiragino Sans";
-	color: #858593;
-}
-#test{
-	height: 40%;
-	border: 0;
-	position: absolute;
 }
