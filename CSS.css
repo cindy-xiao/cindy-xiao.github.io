@@ -16,3 +16,6 @@ html, body {
 	font-family: "Hiragino Sans";
 	background-image: url("Hello.png");
 }
+#first{
+	float: left;
+}
