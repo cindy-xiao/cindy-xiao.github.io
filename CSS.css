@@ -11,6 +11,7 @@ html, body{
 .fadeIn{
 height: 100%;
 width: 100%;
+display: none;
 }
 a:hover, a:visited, a:link, a:active
 {
