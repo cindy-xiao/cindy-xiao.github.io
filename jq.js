@@ -1,10 +1,10 @@
 $(document).ready(function(){
-	$('.fadeIn').hide().fadeIn(700);
+	$('.fadeIn').fadeIn(700);
 
 	$('a').click(function(event){
 		event.preventDefault();
 		nextPage = this.href;
-		$('.fadeIn').fadeOut(350, newpage);
+		$('.fadeIn').fadeOut(200, newpage);
 	});
 
 	function newpage() {
