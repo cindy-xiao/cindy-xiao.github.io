@@ -8,13 +8,30 @@ html, body{
 	font-family: "Lucida Grande";
 	text-align: center;
 }
+.fadeIn{
+height: 100%;
+width: 100%;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color:white;
+  	animation: ease-in;
+}
 #why {
 	height: 100%;
 	width: 100%;
     background-image: url("prince.jpg");
     background-size: 100% 100%;
-    float: right;
     opacity: .95;
+}
+
+#background{
+	height: 100%;
+	width: 100%;
+    background-image: url("background.jpg");
+    background-size: 100% 100%;
+    opacity: .75;
 }
 
 #menu{
@@ -25,9 +42,7 @@ html, body{
 	padding: 0%;
 	position: absolute;
 	left:0;
-	top:0;
-
-	
+	top:0;	
 }
 
 
@@ -41,7 +56,6 @@ html, body{
 	margin:0;
 	padding: 5vmin;
 
-
 }
 .about:hover{
 
@@ -49,5 +63,6 @@ html, body{
 	transition: 1s;
 	color:white;
 }
+
 
 

@@ -1,7 +1,15 @@
-
 $(document).ready(function(){
-	$("#DS").hover(
-		function(){$("#DS").fadeTo("slow, 0.5")},
-		function(){$("#DS").fadeTo("slow, 1")}
-	);
+	$('.fadeIn').hide().fadeIn(500);
+
+	$('a').click(function(event){
+		event.preventDefault();
+		nextPage = this.href;
+		$('.fadeIn').fadeOut(200, newpage);
+	});
+
+	function newpage() {
+		window.location = nextPage;
+	}
+	
+
 });
