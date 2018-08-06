@@ -12,6 +12,7 @@ html, body{
 height: 100%;
 width: 100%;
 display: none;
+
 }
 a:hover, a:visited, a:link, a:active
 {
@@ -31,8 +32,9 @@ a:hover, a:visited, a:link, a:active
 	height: 100%;
 	width: 100%;
     background-image: url("background.jpg");
-    background-size: 100% 100%;
-    opacity: .75;
+    background-size: cover;
+    opacity: .3;
+
 }
 
 #menu{
@@ -58,6 +60,26 @@ a:hover, a:visited, a:link, a:active
 	padding: 5vmin;
 
 }
+#background.scroll{
+	height:140%;
+}
+#background.scroll2{
+	height:140%;
+}
+#menu.scroll {
+	height:140%;
+
+}
+#menu.scroll2 {
+	height:140%;
+
+}
+.scroll.content{
+	height: 100%;
+}
+.scroll2.content{
+	height: 100%;
+}
 .about:hover{
 
 	background-color:gray;
@@ -65,7 +87,70 @@ a:hover, a:visited, a:link, a:active
 	color:white;
 }
 
+.header, .content{
+	
+	width: 70%;
+	margin:0;
+	padding: 5%;
+	color:gray;
+	font-family: "Lucida Grande";
+	position: absolute;
+	left: 20%;
+}
+.header{
+	height: 10%;
+	font-size: 7vmin;
+	text-decoration-style: bold;
+	top:0;
+	
+}
+.content{
+	padding: 0;
+	height:60%;
+	font-size: 3vmin;
+	top:30%;
+	width: 80%;
 
+}
+
+.row:after {
+
+	content:"";
+	display: table;
+	clear:both;
+	
+}
+.left, .right{
+	float:left;
+}
+.left{
+	width:15%;
+	height:100%;
+	padding-left: 4%;
+	padding-right: 1%
+
+}
+.right{
+	width:75%;
+	padding-left: 1%;
+	padding-right: 4%;
+}
+p{
+	margin:0;
+	padding-bottom: 3%;
+	text-align: left;
+}
+.p2{
+	padding: 1%;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+}
+img{
+	width: 20vmin;
+	height:20vmin;
+	border-radius: 50%;
+}
 #twinkle1, #twinkle2 {
   position:absolute;
   top:0;
